@@ -1,0 +1,4 @@
+echo test associate extention with php standalone.
+
+echo Finished [X]
+pause

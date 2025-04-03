@@ -1,0 +1,4 @@
+rem start php server with the root in common
+php -S localhost:8000 -t C:\UniServer\www\doc\files\common\
+echo Finished [X]
+pause
